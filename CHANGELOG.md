@@ -1,4 +1,8 @@
 # Changelog
+
+## [0.1.13] - 2026-04-24
+
+Session cost pill moved from the bottom metrics strip into the chat header, placed to the left of the history (clock) button for at-a-glance visibility while typing. Cost formatting is now approximated for readability: amounts below $0.01 render as `<$0.01`, amounts under $1 use 3 decimals, and larger values use 2 decimals — no more six-digit fractional costs.
  
 ## [0.1.12] - 2026-04-23
  
